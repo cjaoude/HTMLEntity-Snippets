@@ -1,0 +1,10 @@
+{
+  "name": "HTMLEntity Snippets",
+  "details": "https://github.com/cjaoude/HTMLEntity-Snippets",
+  "releases": [
+    {
+      "sublime_text": "*",
+      "details": "https://github.com/cjaoude/HTMLEntity-Snippets/tags"
+    }
+  ]
+}
