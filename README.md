@@ -6,6 +6,7 @@ Quickly key through the most common HTML entities without giving them a second t
 Install via Sublime Text Package Control.
 
 ## reference
+If you are viewing this on the Package Control website, refer to [Github repo](https://sublime.wbond.net/packages/HTMLEntity%20Snippets) for a properly formatted table.
 
 | shortcut  | html          | entity   | desc                       |
 | :-------- | :------       | :-----   | :------                    |
