@@ -1,4 +1,4 @@
-HTML Entity-Snippets for Sublime Text
+HTML Entity Snippets for Sublime Text
 =====================================
 
 Blaze through the most common HTML entities without giving them a second thought. The syntax is simple: a colon ‘:’ followed by the first character or two of the entity name.
