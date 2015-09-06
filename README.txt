@@ -25,6 +25,8 @@ Install via Sublime Text Package Control.
 | :e        | `&hellip;`    | &hellip; | ellipses                   |
 | :in       | `&infin;`     | &infin;  | infinity symbol            |
 | :ch       | `&checkmark;` | &#10003; | checkmark                  |
+| :d        | `&dagger;`    | &dagger; | dagger                     |
+| :dd       | `&ddagger;`   | &ddagger;| double dagger              |
 | :lt       | `&lt;`        | &lt;     | less than                  |
 | :gt       | `&gt;`        | &gt;     | greater than               |
 | :ls       | `&lsquo;`     | &lsquo;  | left single quote          |
