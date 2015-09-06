@@ -17,7 +17,7 @@ Install via Sublime Text Package Control.
 | :m        | `&mdash;`     | &mdash;  | m-dash                     |
 | :n        | `&ndash;`     | &ndash;  | n-dash                     |
 | :s        | `&sect;`      | &sect;   | section                    |
-| :'        | `&apos;`      | &apos;   | apostraphe                 |
+| :'        | `&#39;`       | &#39;    | apostraphe                 |
 | :h        | `&hyphen;`    | &#8208;  | hyphen                     |
 | :v        | `&vert;`      | &#124;   | vertical bar               |
 | :b        | `&bull;`      | &bull;   | bullet point               |
